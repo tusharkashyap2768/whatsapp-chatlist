@@ -1,9 +1,7 @@
-/**
- * Created by aarnavjindal on 07/04/20.
- */
 
 export { ChatHandler, chat_names}
 
+// yeh agye constant jo names and messages fix kardia
 const chat_names = ["Virat Kohli", "Rohit Sharma", "Gautam Gambhir", "Jaspreet Bumrah", "Chris gayle", "Yuvraj Singh", "andre russell"];
 const chat_names_length = chat_names.length;
 const chat_msg = ["Why didn't he come and talk to me himse...",
